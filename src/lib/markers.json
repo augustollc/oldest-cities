@@ -1,0 +1,2314 @@
+[
+  {
+    "city": "Taos Pueblo",
+    "state": "New Mexico",
+    "state_id": "NM",
+    "lat": "36.4657",
+    "lng": "-105.5634",
+    "year": "1450"
+  },
+  {
+    "city": "San Juan",
+    "state": "Puerto Rico",
+    "state_id": "PR",
+    "lat": "18.3985",
+    "lng": "-66.0610",
+    "year": "1521"
+  },
+  {
+    "city": "Zuni Pueblo",
+    "state": "New Mexico",
+    "state_id": "NM",
+    "lat": "35.0693",
+    "lng": "-108.8558",
+    "year": "1539"
+  },
+  {
+    "city": "Childersburg",
+    "state": "Alabama",
+    "state_id": "AL",
+    "lat": "33.2962",
+    "lng": "-86.3456",
+    "year": "1540"
+  },
+  {
+    "city": "Pensacola",
+    "state": "Florida",
+    "state_id": "FL",
+    "lat": "30.4413",
+    "lng": "-87.1911",
+    "year": "1559"
+  },
+  {
+    "city": "San Germ\u00e1n",
+    "state": "Puerto Rico",
+    "state_id": "PR",
+    "lat": "18.0827",
+    "lng": "-67.0460",
+    "year": "1573"
+  },
+  {
+    "city": "Espa\u00f1ola",
+    "state": "New Mexico",
+    "state_id": "NM",
+    "lat": "36.0044",
+    "lng": "-106.0686",
+    "year": "1598"
+  },
+  {
+    "city": "Santa Fe",
+    "state": "New Mexico",
+    "state_id": "NM",
+    "lat": "35.6619",
+    "lng": "-105.9819",
+    "year": "1607"
+  },
+  {
+    "city": "Hampton",
+    "state": "Virginia",
+    "state_id": "VA",
+    "lat": "37.0551",
+    "lng": "-76.3630",
+    "year": "1610"
+  },
+  {
+    "city": "Albany",
+    "state": "New York",
+    "state_id": "NY",
+    "lat": "42.6664",
+    "lng": "-73.7987",
+    "year": "1614"
+  },
+  {
+    "city": "Taos",
+    "state": "New Mexico",
+    "state_id": "NM",
+    "lat": "36.3871",
+    "lng": "-105.5803",
+    "year": "1615"
+  },
+  {
+    "city": "Dover",
+    "state": "New Hampshire",
+    "state_id": "NH",
+    "lat": "43.1887",
+    "lng": "-70.8845",
+    "year": "1623"
+  },
+  {
+    "city": "Gloucester",
+    "state": "Massachusetts",
+    "state_id": "MA",
+    "lat": "42.6260",
+    "lng": "-70.6897",
+    "year": "1623"
+  },
+  {
+    "city": "Chelsea",
+    "state": "Massachusetts",
+    "state_id": "MA",
+    "lat": "42.3959",
+    "lng": "-71.0325",
+    "year": "1624"
+  },
+  {
+    "city": "Salem",
+    "state": "Massachusetts",
+    "state_id": "MA",
+    "lat": "42.5129",
+    "lng": "-70.9021",
+    "year": "1626"
+  },
+  {
+    "city": "Socorro",
+    "state": "New Mexico",
+    "state_id": "NM",
+    "lat": "34.0543",
+    "lng": "-106.9065",
+    "year": "1626"
+  },
+  {
+    "city": "Lynn",
+    "state": "Massachusetts",
+    "state_id": "MA",
+    "lat": "42.4781",
+    "lng": "-70.9664",
+    "year": "1629"
+  },
+  {
+    "city": "Portsmouth",
+    "state": "New Hampshire",
+    "state_id": "NH",
+    "lat": "43.0580",
+    "lng": "-70.7826",
+    "year": "1630"
+  },
+  {
+    "city": "Medford",
+    "state": "Massachusetts",
+    "state_id": "MA",
+    "lat": "42.4234",
+    "lng": "-71.1087",
+    "year": "1630"
+  },
+  {
+    "city": "Boston",
+    "state": "Massachusetts",
+    "state_id": "MA",
+    "lat": "42.3188",
+    "lng": "-71.0852",
+    "year": "1630"
+  },
+  {
+    "city": "Saco",
+    "state": "Maine",
+    "state_id": "ME",
+    "lat": "43.5390",
+    "lng": "-70.4624",
+    "year": "1631"
+  },
+  {
+    "city": "South Berwick",
+    "state": "Maine",
+    "state_id": "ME",
+    "lat": "43.2321",
+    "lng": "-70.7963",
+    "year": "1631"
+  },
+  {
+    "city": "Lewes",
+    "state": "Delaware",
+    "state_id": "DE",
+    "lat": "38.7776",
+    "lng": "-75.1450",
+    "year": "1631"
+  },
+  {
+    "city": "Cambridge",
+    "state": "Massachusetts",
+    "state_id": "MA",
+    "lat": "42.3759",
+    "lng": "-71.1185",
+    "year": "1631"
+  },
+  {
+    "city": "Williamsburg",
+    "state": "Virginia",
+    "state_id": "VA",
+    "lat": "37.2693",
+    "lng": "-76.7076",
+    "year": "1632"
+  },
+  {
+    "city": "Hartford",
+    "state": "Connecticut",
+    "state_id": "CT",
+    "lat": "41.7661",
+    "lng": "-72.6834",
+    "year": "1633"
+  },
+  {
+    "city": "Green Bay",
+    "state": "Wisconsin",
+    "state_id": "WI",
+    "lat": "44.5148",
+    "lng": "-87.9895",
+    "year": "1634"
+  },
+  {
+    "city": "Springfield",
+    "state": "Massachusetts",
+    "state_id": "MA",
+    "lat": "42.1155",
+    "lng": "-72.5395",
+    "year": "1636"
+  },
+  {
+    "city": "Providence",
+    "state": "Rhode Island",
+    "state_id": "RI",
+    "lat": "41.8230",
+    "lng": "-71.4187",
+    "year": "1636"
+  },
+  {
+    "city": "Taunton",
+    "state": "Massachusetts",
+    "state_id": "MA",
+    "lat": "41.9036",
+    "lng": "-71.0943",
+    "year": "1637"
+  },
+  {
+    "city": "Swedesboro",
+    "state": "New Jersey",
+    "state_id": "NJ",
+    "lat": "39.7459",
+    "lng": "-75.3117",
+    "year": "1638"
+  },
+  {
+    "city": "New Haven",
+    "state": "Connecticut",
+    "state_id": "CT",
+    "lat": "41.3113",
+    "lng": "-72.9246",
+    "year": "1638"
+  },
+  {
+    "city": "Wilmington",
+    "state": "Delaware",
+    "state_id": "DE",
+    "lat": "39.7415",
+    "lng": "-75.5416",
+    "year": "1638"
+  },
+  {
+    "city": "St. Marks",
+    "state": "Florida",
+    "state_id": "FL",
+    "lat": "30.1656",
+    "lng": "-84.2078",
+    "year": "Before 1639"
+  },
+  {
+    "city": "Newport",
+    "state": "Rhode Island",
+    "state_id": "RI",
+    "lat": "41.4801",
+    "lng": "-71.3203",
+    "year": "1639"
+  },
+  {
+    "city": "Woburn",
+    "state": "Massachusetts",
+    "state_id": "MA",
+    "lat": "42.4869",
+    "lng": "-71.1543",
+    "year": "1640"
+  },
+  {
+    "city": "Haverhill",
+    "state": "Massachusetts",
+    "state_id": "MA",
+    "lat": "42.7838",
+    "lng": "-71.0871",
+    "year": "1641"
+  },
+  {
+    "city": "Warwick",
+    "state": "Rhode Island",
+    "state_id": "RI",
+    "lat": "41.7062",
+    "lng": "-71.4334",
+    "year": "1642"
+  },
+  {
+    "city": "New London",
+    "state": "Connecticut",
+    "state_id": "CT",
+    "lat": "41.3502",
+    "lng": "-72.1022",
+    "year": "1646"
+  },
+  {
+    "city": "Annapolis",
+    "state": "Maryland",
+    "state_id": "MD",
+    "lat": "38.9706",
+    "lng": "-76.5047",
+    "year": "1649"
+  },
+  {
+    "city": "Kingston",
+    "state": "New York",
+    "state_id": "NY",
+    "lat": "41.9295",
+    "lng": "-73.9968",
+    "year": "1650"
+  },
+  {
+    "city": "New Castle",
+    "state": "Delaware",
+    "state_id": "DE",
+    "lat": "39.6681",
+    "lng": "-75.5697",
+    "year": "1651"
+  },
+  {
+    "city": "Northampton",
+    "state": "Massachusetts",
+    "state_id": "MA",
+    "lat": "42.3266",
+    "lng": "-72.6745",
+    "year": "1654"
+  },
+  {
+    "city": "Schenectady",
+    "state": "New York",
+    "state_id": "NY",
+    "lat": "42.8025",
+    "lng": "-73.9275",
+    "year": "1661"
+  },
+  {
+    "city": "Newark",
+    "state": "New Jersey",
+    "state_id": "NJ",
+    "lat": "40.7245",
+    "lng": "-74.1725",
+    "year": "1666"
+  },
+  {
+    "city": "Sault Ste. Marie",
+    "state": "Michigan",
+    "state_id": "MI",
+    "lat": "46.4817",
+    "lng": "-84.3723",
+    "year": "1668"
+  },
+  {
+    "city": "Westfield",
+    "state": "Massachusetts",
+    "state_id": "MA",
+    "lat": "42.1382",
+    "lng": "-72.7561",
+    "year": "1669"
+  },
+  {
+    "city": "Charleston",
+    "state": "South Carolina",
+    "state_id": "SC",
+    "lat": "32.8168",
+    "lng": "-79.9687",
+    "year": "1670"
+  },
+  {
+    "city": "St. Ignace",
+    "state": "Michigan",
+    "state_id": "MI",
+    "lat": "45.8694",
+    "lng": "-84.7258",
+    "year": "1671"
+  },
+  {
+    "city": "Prairie du Chien",
+    "state": "Wisconsin",
+    "state_id": "WI",
+    "lat": "43.0429",
+    "lng": "-91.1372",
+    "year": "1673"
+  },
+  {
+    "city": "Waterbury",
+    "state": "Connecticut",
+    "state_id": "CT",
+    "lat": "41.5582",
+    "lng": "-73.0361",
+    "year": "1674"
+  },
+  {
+    "city": "Crosswicks",
+    "state": "New Jersey",
+    "state_id": "NJ",
+    "lat": "40.1439",
+    "lng": "-74.6409",
+    "year": "1677"
+  },
+  {
+    "city": "Creve Coeur",
+    "state": "Illinois",
+    "state_id": "IL",
+    "lat": "40.6426",
+    "lng": "-89.5981",
+    "year": "1680"
+  },
+  {
+    "city": "Philadelphia",
+    "state": "Pennsylvania",
+    "state_id": "PA",
+    "lat": "40.0077",
+    "lng": "-75.1339",
+    "year": "1682"
+  },
+  {
+    "city": "Norfolk",
+    "state": "Virginia",
+    "state_id": "VA",
+    "lat": "36.8945",
+    "lng": "-76.2590",
+    "year": "1682"
+  },
+  {
+    "city": "Dover",
+    "state": "Delaware",
+    "state_id": "DE",
+    "lat": "39.1610",
+    "lng": "-75.5202",
+    "year": "1683"
+  },
+  {
+    "city": "New Britain",
+    "state": "Connecticut",
+    "state_id": "CT",
+    "lat": "41.6759",
+    "lng": "-72.7862",
+    "year": "1687"
+  },
+  {
+    "city": "Newark",
+    "state": "Delaware",
+    "state_id": "DE",
+    "lat": "39.6776",
+    "lng": "-75.7576",
+    "year": "1694"
+  },
+  {
+    "city": "Santa Cruz",
+    "state": "New Mexico",
+    "state_id": "NM",
+    "lat": "35.9939",
+    "lng": "-106.0359",
+    "year": "1694"
+  },
+  {
+    "city": "Pensacola",
+    "state": "Florida",
+    "state_id": "FL",
+    "lat": "30.4413",
+    "lng": "-87.1911",
+    "year": "1698"
+  },
+  {
+    "city": "Detroit",
+    "state": "Michigan",
+    "state_id": "MI",
+    "lat": "42.3834",
+    "lng": "-83.1024",
+    "year": "1701"
+  },
+  {
+    "city": "Kaskaskia",
+    "state": "Illinois",
+    "state_id": "IL",
+    "lat": "37.9213",
+    "lng": "-89.9163",
+    "year": "1703"
+  },
+  {
+    "city": "Bath",
+    "state": "North Carolina",
+    "state_id": "NC",
+    "lat": "35.4702",
+    "lng": "-76.8119",
+    "year": "1705"
+  },
+  {
+    "city": "Albuquerque",
+    "state": "New Mexico",
+    "state_id": "NM",
+    "lat": "35.1054",
+    "lng": "-106.6465",
+    "year": "1706"
+  },
+  {
+    "city": "New Bern",
+    "state": "North Carolina",
+    "state_id": "NC",
+    "lat": "35.0955",
+    "lng": "-77.0723",
+    "year": "1710"
+  },
+  {
+    "city": "Mobile",
+    "state": "Alabama",
+    "state_id": "AL",
+    "lat": "30.6782",
+    "lng": "-88.1162",
+    "year": "1711"
+  },
+  {
+    "city": "Beaufort",
+    "state": "South Carolina",
+    "state_id": "SC",
+    "lat": "32.4597",
+    "lng": "-80.7235",
+    "year": "1711"
+  },
+  {
+    "city": "Natchitoches",
+    "state": "Louisiana",
+    "state_id": "LA",
+    "lat": "31.7315",
+    "lng": "-93.0975",
+    "year": "1714"
+  },
+  {
+    "city": "Nacogdoches",
+    "state": "Texas",
+    "state_id": "TX",
+    "lat": "31.6134",
+    "lng": "-94.6528",
+    "year": "1716"
+  },
+  {
+    "city": "Natchez",
+    "state": "Mississippi",
+    "state_id": "MS",
+    "lat": "31.5437",
+    "lng": "-91.3867",
+    "year": "1716"
+  },
+  {
+    "city": "New Orleans",
+    "state": "Louisiana",
+    "state_id": "LA",
+    "lat": "30.0687",
+    "lng": "-89.9288",
+    "year": "1718"
+  },
+  {
+    "city": "San Antonio",
+    "state": "Texas",
+    "state_id": "TX",
+    "lat": "29.4632",
+    "lng": "-98.5238",
+    "year": "1718"
+  },
+  {
+    "city": "Trenton",
+    "state": "New Jersey",
+    "state_id": "NJ",
+    "lat": "40.2237",
+    "lng": "-74.7641",
+    "year": "1719"
+  },
+  {
+    "city": "Biloxi",
+    "state": "Mississippi",
+    "state_id": "MS",
+    "lat": "30.4426",
+    "lng": "-88.9514",
+    "year": "1720"
+  },
+  {
+    "city": "Baton Rouge",
+    "state": "Louisiana",
+    "state_id": "LA",
+    "lat": "30.4420",
+    "lng": "-91.1311",
+    "year": "1721"
+  },
+  {
+    "city": "Prairie Du Rocher",
+    "state": "Illinois",
+    "state_id": "IL",
+    "lat": "38.0816",
+    "lng": "-90.0977",
+    "year": "1722"
+  },
+  {
+    "city": "Beaufort",
+    "state": "North Carolina",
+    "state_id": "NC",
+    "lat": "34.7300",
+    "lng": "-76.6493",
+    "year": "1723"
+  },
+  {
+    "city": "Concord",
+    "state": "New Hampshire",
+    "state_id": "NH",
+    "lat": "43.2305",
+    "lng": "-71.5595",
+    "year": "1725"
+  },
+  {
+    "city": "Fredericksburg",
+    "state": "Virginia",
+    "state_id": "VA",
+    "lat": "38.2992",
+    "lng": "-77.4872",
+    "year": "1728"
+  },
+  {
+    "city": "Baltimore",
+    "state": "Maryland",
+    "state_id": "MD",
+    "lat": "39.3051",
+    "lng": "-76.6144",
+    "year": "1729"
+  },
+  {
+    "city": "Lancaster",
+    "state": "Pennsylvania",
+    "state_id": "PA",
+    "lat": "40.0420",
+    "lng": "-76.3012",
+    "year": "1729"
+  },
+  {
+    "city": "Georgetown",
+    "state": "South Carolina",
+    "state_id": "SC",
+    "lat": "33.3594",
+    "lng": "-79.2958",
+    "year": "1729"
+  },
+  {
+    "city": "New Brunswick",
+    "state": "New Jersey",
+    "state_id": "NJ",
+    "lat": "40.4870",
+    "lng": "-74.4450",
+    "year": "1730"
+  },
+  {
+    "city": "Vincennes",
+    "state": "Indiana",
+    "state_id": "IN",
+    "lat": "38.6759",
+    "lng": "-87.5102",
+    "year": "1732"
+  },
+  {
+    "city": "Camden",
+    "state": "South Carolina",
+    "state_id": "SC",
+    "lat": "34.2570",
+    "lng": "-80.6090",
+    "year": "1732"
+  },
+  {
+    "city": "Kingstree",
+    "state": "South Carolina",
+    "state_id": "SC",
+    "lat": "33.6665",
+    "lng": "-79.8292",
+    "year": "1732"
+  },
+  {
+    "city": "Richmond",
+    "state": "Virginia",
+    "state_id": "VA",
+    "lat": "37.5295",
+    "lng": "-77.4756",
+    "year": "1733"
+  },
+  {
+    "city": "Savannah",
+    "state": "Georgia",
+    "state_id": "GA",
+    "lat": "32.0286",
+    "lng": "-81.1821",
+    "year": "1733"
+  },
+  {
+    "city": "Wilmington",
+    "state": "North Carolina",
+    "state_id": "NC",
+    "lat": "34.2099",
+    "lng": "-77.8866",
+    "year": "1733"
+  },
+  {
+    "city": "Ste. Genevieve",
+    "state": "Missouri",
+    "state_id": "MO",
+    "lat": "37.9755",
+    "lng": "-90.0477",
+    "year": "1735"
+  },
+  {
+    "city": "Augusta",
+    "state": "Georgia",
+    "state_id": "GA",
+    "lat": "33.3645",
+    "lng": "-82.0708",
+    "year": "1736"
+  },
+  {
+    "city": "Darien",
+    "state": "Georgia",
+    "state_id": "GA",
+    "lat": "31.3568",
+    "lng": "-81.4314",
+    "year": "1736"
+  },
+  {
+    "city": "Cheraw",
+    "state": "South Carolina",
+    "state_id": "SC",
+    "lat": "34.6956",
+    "lng": "-79.9084",
+    "year": "1740"
+  },
+  {
+    "city": "Bethlehem",
+    "state": "Pennsylvania",
+    "state_id": "PA",
+    "lat": "40.6266",
+    "lng": "-75.3679",
+    "year": "1741"
+  },
+  {
+    "city": "Petersburg",
+    "state": "Virginia",
+    "state_id": "VA",
+    "lat": "37.2043",
+    "lng": "-77.3913",
+    "year": "1748"
+  },
+  {
+    "city": "Alexandria",
+    "state": "Virginia",
+    "state_id": "VA",
+    "lat": "38.8185",
+    "lng": "-77.0861",
+    "year": "1749"
+  },
+  {
+    "city": "Goliad",
+    "state": "Texas",
+    "state_id": "TX",
+    "lat": "28.6708",
+    "lng": "-97.3917",
+    "year": "1749"
+  },
+  {
+    "city": "Erie",
+    "state": "Pennsylvania",
+    "state_id": "PA",
+    "lat": "42.1167",
+    "lng": "-80.0733",
+    "year": "1750"
+  },
+  {
+    "city": "Rock Island",
+    "state": "Illinois",
+    "state_id": "IL",
+    "lat": "41.4699",
+    "lng": "-90.5827",
+    "year": "1750"
+  },
+  {
+    "city": "Carlisle",
+    "state": "Pennsylvania",
+    "state_id": "PA",
+    "lat": "40.2000",
+    "lng": "-77.2034",
+    "year": "1751"
+  },
+  {
+    "city": "Georgetown",
+    "state": "Maryland",
+    "state_id": "MD",
+    "lat": "39.2194",
+    "lng": "-76.1971",
+    "year": "1751"
+  },
+  {
+    "city": "Portsmouth",
+    "state": "Virginia",
+    "state_id": "VA",
+    "lat": "36.8468",
+    "lng": "-76.3540",
+    "year": "1752"
+  },
+  {
+    "city": "Augusta",
+    "state": "Maine",
+    "state_id": "ME",
+    "lat": "44.3341",
+    "lng": "-69.7319",
+    "year": "1754"
+  },
+  {
+    "city": "Pittsburgh",
+    "state": "Pennsylvania",
+    "state_id": "PA",
+    "lat": "40.4397",
+    "lng": "-79.9763",
+    "year": "1754"
+  },
+  {
+    "city": "Laredo",
+    "state": "Texas",
+    "state_id": "TX",
+    "lat": "27.5625",
+    "lng": "-99.4874",
+    "year": "1755"
+  },
+  {
+    "city": "Charlotte",
+    "state": "North Carolina",
+    "state_id": "NC",
+    "lat": "35.2083",
+    "lng": "-80.8303",
+    "year": "1755"
+  },
+  {
+    "city": "Charlottesville",
+    "state": "Virginia",
+    "state_id": "VA",
+    "lat": "38.0375",
+    "lng": "-78.4855",
+    "year": "1761"
+  },
+  {
+    "city": "Shepherdstown",
+    "state": "West Virginia",
+    "state_id": "WV",
+    "lat": "39.4320",
+    "lng": "-77.8046",
+    "year": "1762"
+  },
+  {
+    "city": "Allentown",
+    "state": "Pennsylvania",
+    "state_id": "PA",
+    "lat": "40.5961",
+    "lng": "-75.4756",
+    "year": "1762"
+  },
+  {
+    "city": "St. Louis",
+    "state": "Missouri",
+    "state_id": "MO",
+    "lat": "38.6359",
+    "lng": "-90.2451",
+    "year": "1763"
+  },
+  {
+    "city": "Burlington",
+    "state": "Vermont",
+    "state_id": "VT",
+    "lat": "44.4876",
+    "lng": "-73.2316",
+    "year": "1763"
+  },
+  {
+    "city": "Opelousas",
+    "state": "Louisiana",
+    "state_id": "LA",
+    "lat": "30.5252",
+    "lng": "-92.0816",
+    "year": "1764"
+  },
+  {
+    "city": "St. Charles",
+    "state": "Missouri",
+    "state_id": "MO",
+    "lat": "38.7954",
+    "lng": "-90.5157",
+    "year": "1765"
+  },
+  {
+    "city": "Vergennes",
+    "state": "Vermont",
+    "state_id": "VT",
+    "lat": "44.1664",
+    "lng": "-73.2557",
+    "year": "1766"
+  },
+  {
+    "city": "New Smyrna Beach",
+    "state": "Florida",
+    "state_id": "FL",
+    "lat": "29.0249",
+    "lng": "-80.9652",
+    "year": "1768"
+  },
+  {
+    "city": "San Diego",
+    "state": "California",
+    "state_id": "CA",
+    "lat": "32.8313",
+    "lng": "-117.1222",
+    "year": "1769"
+  },
+  {
+    "city": "Ninety Six",
+    "state": "South Carolina",
+    "state_id": "SC",
+    "lat": "34.1696",
+    "lng": "-82.0239",
+    "year": "1769"
+  },
+  {
+    "city": "Monterey",
+    "state": "California",
+    "state_id": "CA",
+    "lat": "36.5919",
+    "lng": "-121.8808",
+    "year": "1770"
+  },
+  {
+    "city": "Brunswick",
+    "state": "Georgia",
+    "state_id": "GA",
+    "lat": "31.1449",
+    "lng": "-81.4746",
+    "year": "1771"
+  },
+  {
+    "city": "Morgantown",
+    "state": "West Virginia",
+    "state_id": "WV",
+    "lat": "39.6383",
+    "lng": "-79.9464",
+    "year": "1772"
+  },
+  {
+    "city": "Unalaska",
+    "state": "Alaska",
+    "state_id": "AK",
+    "lat": "53.8984",
+    "lng": "-166.5680",
+    "year": "1774"
+  },
+  {
+    "city": "Tucson",
+    "state": "Arizona",
+    "state_id": "AZ",
+    "lat": "32.1541",
+    "lng": "-110.8787",
+    "year": "1775"
+  },
+  {
+    "city": "Lexington",
+    "state": "Kentucky",
+    "state_id": "KY",
+    "lat": "38.0423",
+    "lng": "-84.4587",
+    "year": "1775"
+  },
+  {
+    "city": "San Francisco",
+    "state": "California",
+    "state_id": "CA",
+    "lat": "37.7558",
+    "lng": "-122.4449",
+    "year": "1776"
+  },
+  {
+    "city": "San Jose",
+    "state": "California",
+    "state_id": "CA",
+    "lat": "37.3012",
+    "lng": "-121.8480",
+    "year": "1777"
+  },
+  {
+    "city": "Louisville",
+    "state": "Kentucky",
+    "state_id": "KY",
+    "lat": "38.1663",
+    "lng": "-85.6485",
+    "year": "1778"
+  },
+  {
+    "city": "West Point",
+    "state": "New York",
+    "state_id": "NY",
+    "lat": "41.3645",
+    "lng": "-74.0123",
+    "year": "1778"
+  },
+  {
+    "city": "Jonesborough",
+    "state": "Tennessee",
+    "state_id": "TN",
+    "lat": "36.2959",
+    "lng": "-82.4766",
+    "year": "1779"
+  },
+  {
+    "city": "Nashville",
+    "state": "Tennessee",
+    "state_id": "TN",
+    "lat": "36.1715",
+    "lng": "-86.7842",
+    "year": "1779"
+  },
+  {
+    "city": "Montpelier",
+    "state": "Vermont",
+    "state_id": "VT",
+    "lat": "44.2659",
+    "lng": "-72.5717",
+    "year": "1781"
+  },
+  {
+    "city": "Los Angeles",
+    "state": "California",
+    "state_id": "CA",
+    "lat": "34.1141",
+    "lng": "-118.4068",
+    "year": "1781"
+  },
+  {
+    "city": "Clarksville",
+    "state": "Indiana",
+    "state_id": "IN",
+    "lat": "38.3220",
+    "lng": "-85.7673",
+    "year": "1783"
+  },
+  {
+    "city": "Harrisburg",
+    "state": "Pennsylvania",
+    "state_id": "PA",
+    "lat": "40.2752",
+    "lng": "-76.8843",
+    "year": "1785"
+  },
+  {
+    "city": "Asheville",
+    "state": "North Carolina",
+    "state_id": "NC",
+    "lat": "35.5707",
+    "lng": "-82.5537",
+    "year": "1785"
+  },
+  {
+    "city": "Dubuque",
+    "state": "Iowa",
+    "state_id": "IA",
+    "lat": "42.5002",
+    "lng": "-90.7070",
+    "year": "1785"
+  },
+  {
+    "city": "Columbia",
+    "state": "South Carolina",
+    "state_id": "SC",
+    "lat": "34.0378",
+    "lng": "-80.9036",
+    "year": "1786"
+  },
+  {
+    "city": "Florissant",
+    "state": "Missouri",
+    "state_id": "MO",
+    "lat": "38.7996",
+    "lng": "-90.3269",
+    "year": "1786"
+  },
+  {
+    "city": "Frankfort",
+    "state": "Kentucky",
+    "state_id": "KY",
+    "lat": "38.1924",
+    "lng": "-84.8643",
+    "year": "1786"
+  },
+  {
+    "city": "Lynchburg",
+    "state": "Virginia",
+    "state_id": "VA",
+    "lat": "37.4003",
+    "lng": "-79.1909",
+    "year": "1786"
+  },
+  {
+    "city": "Portland",
+    "state": "Maine",
+    "state_id": "ME",
+    "lat": "43.6773",
+    "lng": "-70.2715",
+    "year": "1786"
+  },
+  {
+    "city": "Steubenville",
+    "state": "Ohio",
+    "state_id": "OH",
+    "lat": "40.3653",
+    "lng": "-80.6519",
+    "year": "1786"
+  },
+  {
+    "city": "Spartanburg",
+    "state": "South Carolina",
+    "state_id": "SC",
+    "lat": "34.9442",
+    "lng": "-81.9251",
+    "year": "1787"
+  },
+  {
+    "city": "Marietta",
+    "state": "Ohio",
+    "state_id": "OH",
+    "lat": "39.4241",
+    "lng": "-81.4465",
+    "year": "1788"
+  },
+  {
+    "city": "Cincinnati",
+    "state": "Ohio",
+    "state_id": "OH",
+    "lat": "39.1413",
+    "lng": "-84.5060",
+    "year": "1788"
+  },
+  {
+    "city": "Charleston",
+    "state": "West Virginia",
+    "state_id": "WV",
+    "lat": "38.3484",
+    "lng": "-81.6322",
+    "year": "1788"
+  },
+  {
+    "city": "Washington",
+    "state": "District of Columbia",
+    "state_id": "DC",
+    "lat": "38.9047",
+    "lng": "-77.0163",
+    "year": "1790"
+  },
+  {
+    "city": "Vicksburg",
+    "state": "Mississippi",
+    "state_id": "MS",
+    "lat": "32.3173",
+    "lng": "-90.8868",
+    "year": "1790"
+  },
+  {
+    "city": "Georgetown",
+    "state": "Delaware",
+    "state_id": "DE",
+    "lat": "38.6894",
+    "lng": "-75.3872",
+    "year": "1791"
+  },
+  {
+    "city": "Santa Cruz",
+    "state": "California",
+    "state_id": "CA",
+    "lat": "36.9789",
+    "lng": "-122.0346",
+    "year": "1791"
+  },
+  {
+    "city": "Monroe",
+    "state": "Louisiana",
+    "state_id": "LA",
+    "lat": "32.5185",
+    "lng": "-92.0774",
+    "year": "1791"
+  },
+  {
+    "city": "Kenai",
+    "state": "Alaska",
+    "state_id": "AK",
+    "lat": "60.5619",
+    "lng": "-151.1985",
+    "year": "1791"
+  },
+  {
+    "city": "Knoxville",
+    "state": "Tennessee",
+    "state_id": "TN",
+    "lat": "35.9692",
+    "lng": "-83.9496",
+    "year": "1791"
+  },
+  {
+    "city": "Bangor",
+    "state": "Maine",
+    "state_id": "ME",
+    "lat": "44.8323",
+    "lng": "-68.7906",
+    "year": "1791"
+  },
+  {
+    "city": "Kodiak",
+    "state": "Alaska",
+    "state_id": "AK",
+    "lat": "57.7934",
+    "lng": "-152.4059",
+    "year": "1792"
+  },
+  {
+    "city": "Raleigh",
+    "state": "North Carolina",
+    "state_id": "NC",
+    "lat": "35.8324",
+    "lng": "-78.6429",
+    "year": "1792"
+  },
+  {
+    "city": "Fort Wayne",
+    "state": "Indiana",
+    "state_id": "IN",
+    "lat": "41.0888",
+    "lng": "-85.1436",
+    "year": "1794"
+  },
+  {
+    "city": "Chillicothe",
+    "state": "Ohio",
+    "state_id": "OH",
+    "lat": "39.3393",
+    "lng": "-82.9939",
+    "year": "1796"
+  },
+  {
+    "city": "Cleveland",
+    "state": "Ohio",
+    "state_id": "OH",
+    "lat": "41.4764",
+    "lng": "-81.6805",
+    "year": "1796"
+  },
+  {
+    "city": "Dayton",
+    "state": "Ohio",
+    "state_id": "OH",
+    "lat": "39.7805",
+    "lng": "-84.2003",
+    "year": "1796"
+  },
+  {
+    "city": "Youngstown",
+    "state": "Ohio",
+    "state_id": "OH",
+    "lat": "41.0993",
+    "lng": "-80.6463",
+    "year": "1796"
+  },
+  {
+    "city": "Mentor",
+    "state": "Ohio",
+    "state_id": "OH",
+    "lat": "41.6893",
+    "lng": "-81.3362",
+    "year": "1797"
+  },
+  {
+    "city": "Zanesville",
+    "state": "Ohio",
+    "state_id": "OH",
+    "lat": "39.9565",
+    "lng": "-82.0132",
+    "year": "1797"
+  },
+  {
+    "city": "Greenville",
+    "state": "South Carolina",
+    "state_id": "SC",
+    "lat": "34.8354",
+    "lng": "-82.3646",
+    "year": "1797"
+  },
+  {
+    "city": "Bowling Green",
+    "state": "Kentucky",
+    "state_id": "KY",
+    "lat": "36.9716",
+    "lng": "-86.4378",
+    "year": "1798"
+  },
+  {
+    "city": "Warren",
+    "state": "Ohio",
+    "state_id": "OH",
+    "lat": "41.2390",
+    "lng": "-80.8174",
+    "year": "1798"
+  },
+  {
+    "city": "Hudson",
+    "state": "Ohio",
+    "state_id": "OH",
+    "lat": "41.2399",
+    "lng": "-81.4408",
+    "year": "1799"
+  },
+  {
+    "city": "Potosi",
+    "state": "Missouri",
+    "state_id": "MO",
+    "lat": "37.9337",
+    "lng": "-90.7750",
+    "year": "1799"
+  },
+  {
+    "city": "Elizabethton",
+    "state": "Tennessee",
+    "state_id": "TN",
+    "lat": "36.3367",
+    "lng": "-82.2370",
+    "year": "1799"
+  },
+  {
+    "city": "Ravenna",
+    "state": "Ohio",
+    "state_id": "OH",
+    "lat": "41.1612",
+    "lng": "-81.2422",
+    "year": "1799"
+  },
+  {
+    "city": "Aurora",
+    "state": "Ohio",
+    "state_id": "OH",
+    "lat": "41.3118",
+    "lng": "-81.3450",
+    "year": "1799"
+  },
+  {
+    "city": "Sitka",
+    "state": "Alaska",
+    "state_id": "AK",
+    "lat": "57.2401",
+    "lng": "-135.3152",
+    "year": "1799"
+  },
+  {
+    "city": "Buffalo",
+    "state": "New York",
+    "state_id": "NY",
+    "lat": "42.9018",
+    "lng": "-78.8487",
+    "year": "1800"
+  },
+  {
+    "city": "Athens",
+    "state": "Georgia",
+    "state_id": "GA",
+    "lat": "33.9508",
+    "lng": "-83.3689",
+    "year": "1801"
+  },
+  {
+    "city": "Ashtabula",
+    "state": "Ohio",
+    "state_id": "OH",
+    "lat": "41.8805",
+    "lng": "-80.7984",
+    "year": "1803"
+  },
+  {
+    "city": "Chicago",
+    "state": "Illinois",
+    "state_id": "IL",
+    "lat": "41.8375",
+    "lng": "-87.6866",
+    "year": "1803"
+  },
+  {
+    "city": "Stow",
+    "state": "Ohio",
+    "state_id": "OH",
+    "lat": "41.1765",
+    "lng": "-81.4344",
+    "year": "1804"
+  },
+  {
+    "city": "Milledgeville",
+    "state": "Georgia",
+    "state_id": "GA",
+    "lat": "33.0874",
+    "lng": "-83.2414",
+    "year": "1804"
+  },
+  {
+    "city": "Huntsville",
+    "state": "Alabama",
+    "state_id": "AL",
+    "lat": "34.6981",
+    "lng": "-86.6412",
+    "year": "1805"
+  },
+  {
+    "city": "Manchester",
+    "state": "New Hampshire",
+    "state_id": "NH",
+    "lat": "42.9848",
+    "lng": "-71.4447",
+    "year": "1810"
+  },
+  {
+    "city": "San Bernardino",
+    "state": "California",
+    "state_id": "CA",
+    "lat": "34.1416",
+    "lng": "-117.2943",
+    "year": "1810"
+  },
+  {
+    "city": "Astoria",
+    "state": "Oregon",
+    "state_id": "OR",
+    "lat": "46.1856",
+    "lng": "-123.8053",
+    "year": "1811"
+  },
+  {
+    "city": "Murfreesboro",
+    "state": "Tennessee",
+    "state_id": "TN",
+    "lat": "35.8490",
+    "lng": "-86.4121",
+    "year": "1811"
+  },
+  {
+    "city": "Columbus",
+    "state": "Ohio",
+    "state_id": "OH",
+    "lat": "39.9862",
+    "lng": "-82.9855",
+    "year": "1812"
+  },
+  {
+    "city": "Pickerington",
+    "state": "Ohio",
+    "state_id": "OH",
+    "lat": "39.8890",
+    "lng": "-82.7678",
+    "year": "1815"
+  },
+  {
+    "city": "Jonesboro",
+    "state": "Arkansas",
+    "state_id": "AR",
+    "lat": "35.8212",
+    "lng": "-90.6791",
+    "year": "1815"
+  },
+  {
+    "city": "Chattanooga",
+    "state": "Tennessee",
+    "state_id": "TN",
+    "lat": "35.0660",
+    "lng": "-85.2481",
+    "year": "1816"
+  },
+  {
+    "city": "Saginaw",
+    "state": "Michigan",
+    "state_id": "MI",
+    "lat": "43.4199",
+    "lng": "-83.9501",
+    "year": "1816"
+  },
+  {
+    "city": "Fort Smith",
+    "state": "Arkansas",
+    "state_id": "AR",
+    "lat": "35.3495",
+    "lng": "-94.3695",
+    "year": "1817"
+  },
+  {
+    "city": "Milan",
+    "state": "Ohio",
+    "state_id": "OH",
+    "lat": "41.2882",
+    "lng": "-82.5994",
+    "year": "1817"
+  },
+  {
+    "city": "Pontiac",
+    "state": "Michigan",
+    "state_id": "MI",
+    "lat": "42.6493",
+    "lng": "-83.2878",
+    "year": "1818"
+  },
+  {
+    "city": "Medina",
+    "state": "Ohio",
+    "state_id": "OH",
+    "lat": "41.1358",
+    "lng": "-81.8695",
+    "year": "1818"
+  },
+  {
+    "city": "Columbia",
+    "state": "Missouri",
+    "state_id": "MO",
+    "lat": "38.9472",
+    "lng": "-92.3268",
+    "year": "1818"
+  },
+  {
+    "city": "Jim Thorpe",
+    "state": "Pennsylvania",
+    "state_id": "PA",
+    "lat": "40.8712",
+    "lng": "-75.7433",
+    "year": "1818"
+  },
+  {
+    "city": "Memphis",
+    "state": "Tennessee",
+    "state_id": "TN",
+    "lat": "35.1087",
+    "lng": "-89.9663",
+    "year": "1819"
+  },
+  {
+    "city": "Chapel Hill",
+    "state": "North Carolina",
+    "state_id": "NC",
+    "lat": "35.9271",
+    "lng": "-79.0391",
+    "year": "1819"
+  },
+  {
+    "city": "Montgomery",
+    "state": "Alabama",
+    "state_id": "AL",
+    "lat": "32.3482",
+    "lng": "-86.2668",
+    "year": "1819"
+  },
+  {
+    "city": "Springfield",
+    "state": "Illinois",
+    "state_id": "IL",
+    "lat": "39.7709",
+    "lng": "-89.6540",
+    "year": "1819"
+  },
+  {
+    "city": "Tuscaloosa",
+    "state": "Alabama",
+    "state_id": "AL",
+    "lat": "33.2348",
+    "lng": "-87.5268",
+    "year": "1819"
+  },
+  {
+    "city": "South Bend",
+    "state": "Indiana",
+    "state_id": "IN",
+    "lat": "41.6767",
+    "lng": "-86.2696",
+    "year": "1820"
+  },
+  {
+    "city": "Bridgeport",
+    "state": "Connecticut",
+    "state_id": "CT",
+    "lat": "41.1918",
+    "lng": "-73.1954",
+    "year": "1821"
+  },
+  {
+    "city": "Little Rock",
+    "state": "Arkansas",
+    "state_id": "AR",
+    "lat": "34.7256",
+    "lng": "-92.3577",
+    "year": "1821"
+  },
+  {
+    "city": "Indianapolis",
+    "state": "Indiana",
+    "state_id": "IN",
+    "lat": "39.7771",
+    "lng": "-86.1458",
+    "year": "1821"
+  },
+  {
+    "city": "Jacksonville",
+    "state": "Florida",
+    "state_id": "FL",
+    "lat": "30.3322",
+    "lng": "-81.6749",
+    "year": "1822"
+  },
+  {
+    "city": "Jackson",
+    "state": "Mississippi",
+    "state_id": "MS",
+    "lat": "32.3157",
+    "lng": "-90.2125",
+    "year": "1822"
+  },
+  {
+    "city": "Peoria",
+    "state": "Illinois",
+    "state_id": "IL",
+    "lat": "40.7520",
+    "lng": "-89.6154",
+    "year": "1823"
+  },
+  {
+    "city": "Tampa",
+    "state": "Florida",
+    "state_id": "FL",
+    "lat": "27.9945",
+    "lng": "-82.4447",
+    "year": "1823"
+  },
+  {
+    "city": "Ann Arbor",
+    "state": "Michigan",
+    "state_id": "MI",
+    "lat": "42.2759",
+    "lng": "-83.7310",
+    "year": "1824"
+  },
+  {
+    "city": "Tallahassee",
+    "state": "Florida",
+    "state_id": "FL",
+    "lat": "30.4551",
+    "lng": "-84.2527",
+    "year": "1824"
+  },
+  {
+    "city": "Victoria",
+    "state": "Texas",
+    "state_id": "TX",
+    "lat": "28.8287",
+    "lng": "-96.9849",
+    "year": "1824"
+  },
+  {
+    "city": "Akron",
+    "state": "Ohio",
+    "state_id": "OH",
+    "lat": "41.0798",
+    "lng": "-81.5219",
+    "year": "1825"
+  },
+  {
+    "city": "Vancouver",
+    "state": "Washington",
+    "state_id": "WA",
+    "lat": "45.6366",
+    "lng": "-122.5967",
+    "year": "1825"
+  },
+  {
+    "city": "Grand Rapids",
+    "state": "Michigan",
+    "state_id": "MI",
+    "lat": "42.9619",
+    "lng": "-85.6562",
+    "year": "1825"
+  },
+  {
+    "city": "Wabasha",
+    "state": "Minnesota",
+    "state_id": "MN",
+    "lat": "44.3706",
+    "lng": "-92.0420",
+    "year": "1826"
+  },
+  {
+    "city": "Gonzales",
+    "state": "Texas",
+    "state_id": "TX",
+    "lat": "29.5126",
+    "lng": "-97.4472",
+    "year": "1827"
+  },
+  {
+    "city": "Mineral Point",
+    "state": "Wisconsin",
+    "state_id": "WI",
+    "lat": "42.8632",
+    "lng": "-90.1814",
+    "year": "1827"
+  },
+  {
+    "city": "Key West",
+    "state": "Florida",
+    "state_id": "FL",
+    "lat": "24.5642",
+    "lng": "-81.7775",
+    "year": "1828"
+  },
+  {
+    "city": "Columbus",
+    "state": "Georgia",
+    "state_id": "GA",
+    "lat": "32.5100",
+    "lng": "-84.8771",
+    "year": "1828"
+  },
+  {
+    "city": "Oregon City",
+    "state": "Oregon",
+    "state_id": "OR",
+    "lat": "45.3418",
+    "lng": "-122.5924",
+    "year": "1829"
+  },
+  {
+    "city": "Bainbridge",
+    "state": "Georgia",
+    "state_id": "GA",
+    "lat": "30.9052",
+    "lng": "-84.5732",
+    "year": "1829"
+  },
+  {
+    "city": "Milwaukee",
+    "state": "Wisconsin",
+    "state_id": "WI",
+    "lat": "43.0642",
+    "lng": "-87.9675",
+    "year": "1833"
+  },
+  {
+    "city": "Austin",
+    "state": "Texas",
+    "state_id": "TX",
+    "lat": "30.3005",
+    "lng": "-97.7522",
+    "year": "1835"
+  },
+  {
+    "city": "Kenosha",
+    "state": "Wisconsin",
+    "state_id": "WI",
+    "lat": "42.5865",
+    "lng": "-87.8773",
+    "year": "1835"
+  },
+  {
+    "city": "Shreveport",
+    "state": "Louisiana",
+    "state_id": "LA",
+    "lat": "32.4653",
+    "lng": "-93.7955",
+    "year": "1836"
+  },
+  {
+    "city": "Madison",
+    "state": "Wisconsin",
+    "state_id": "WI",
+    "lat": "43.0822",
+    "lng": "-89.3930",
+    "year": "1836"
+  },
+  {
+    "city": "Tulsa",
+    "state": "Oklahoma",
+    "state_id": "OK",
+    "lat": "36.1283",
+    "lng": "-95.9042",
+    "year": "1836"
+  },
+  {
+    "city": "Lansing",
+    "state": "Michigan",
+    "state_id": "MI",
+    "lat": "42.7142",
+    "lng": "-84.5601",
+    "year": "1837"
+  },
+  {
+    "city": "Houston",
+    "state": "Texas",
+    "state_id": "TX",
+    "lat": "29.7860",
+    "lng": "-95.3885",
+    "year": "1837"
+  },
+  {
+    "city": "Oxford",
+    "state": "Mississippi",
+    "state_id": "MS",
+    "lat": "34.3627",
+    "lng": "-89.5336",
+    "year": "1837"
+  },
+  {
+    "city": "Toledo",
+    "state": "Ohio",
+    "state_id": "OH",
+    "lat": "41.6638",
+    "lng": "-83.5827",
+    "year": "1837"
+  },
+  {
+    "city": "Sacramento",
+    "state": "California",
+    "state_id": "CA",
+    "lat": "38.5677",
+    "lng": "-121.4685",
+    "year": "1839"
+  },
+  {
+    "city": "Dallas",
+    "state": "Texas",
+    "state_id": "TX",
+    "lat": "32.7935",
+    "lng": "-96.7667",
+    "year": "1841"
+  },
+  {
+    "city": "Racine",
+    "state": "Wisconsin",
+    "state_id": "WI",
+    "lat": "42.7274",
+    "lng": "-87.8135",
+    "year": "1841"
+  },
+  {
+    "city": "Atlanta",
+    "state": "Georgia",
+    "state_id": "GA",
+    "lat": "33.7628",
+    "lng": "-84.4220",
+    "year": "1843"
+  },
+  {
+    "city": "Des Moines",
+    "state": "Iowa",
+    "state_id": "IA",
+    "lat": "41.5725",
+    "lng": "-93.6105",
+    "year": "1843"
+  },
+  {
+    "city": "Chagrin Falls",
+    "state": "Ohio",
+    "state_id": "OH",
+    "lat": "41.4319",
+    "lng": "-81.3887",
+    "year": "1844"
+  },
+  {
+    "city": "Portland",
+    "state": "Oregon",
+    "state_id": "OR",
+    "lat": "45.5371",
+    "lng": "-122.6500",
+    "year": "1845"
+  },
+  {
+    "city": "Salt Lake City",
+    "state": "Utah",
+    "state_id": "UT",
+    "lat": "40.7776",
+    "lng": "-111.9311",
+    "year": "1847"
+  },
+  {
+    "city": "Harrisburg",
+    "state": "Illinois",
+    "state_id": "IL",
+    "lat": "37.7374",
+    "lng": "-88.5457",
+    "year": "1847"
+  },
+  {
+    "city": "Mesilla",
+    "state": "New Mexico",
+    "state_id": "NM",
+    "lat": "32.2693",
+    "lng": "-106.8091",
+    "year": "1848"
+  },
+  {
+    "city": "Las Cruces",
+    "state": "New Mexico",
+    "state_id": "NM",
+    "lat": "32.3265",
+    "lng": "-106.7893",
+    "year": "1849"
+  },
+  {
+    "city": "Provo",
+    "state": "Utah",
+    "state_id": "UT",
+    "lat": "40.2457",
+    "lng": "-111.6457",
+    "year": "1849"
+  },
+  {
+    "city": "Kansas City",
+    "state": "Missouri",
+    "state_id": "MO",
+    "lat": "39.1238",
+    "lng": "-94.5541",
+    "year": "1850"
+  },
+  {
+    "city": "Phoenix",
+    "state": "Oregon",
+    "state_id": "OR",
+    "lat": "42.2749",
+    "lng": "-122.8154",
+    "year": "1850"
+  },
+  {
+    "city": "La Crosse",
+    "state": "Wisconsin",
+    "state_id": "WI",
+    "lat": "43.8241",
+    "lng": "-91.2268",
+    "year": "1851"
+  },
+  {
+    "city": "Seattle",
+    "state": "Washington",
+    "state_id": "WA",
+    "lat": "47.6211",
+    "lng": "-122.3244",
+    "year": "1851"
+  },
+  {
+    "city": "Oakland",
+    "state": "California",
+    "state_id": "CA",
+    "lat": "37.7904",
+    "lng": "-122.2166",
+    "year": "1852"
+  },
+  {
+    "city": "Roanoke",
+    "state": "Virginia",
+    "state_id": "VA",
+    "lat": "37.2785",
+    "lng": "-79.9581",
+    "year": "1852"
+  },
+  {
+    "city": "Gainesville",
+    "state": "Florida",
+    "state_id": "FL",
+    "lat": "29.6804",
+    "lng": "-82.3459",
+    "year": "1854"
+  },
+  {
+    "city": "Omaha",
+    "state": "Nebraska",
+    "state_id": "NE",
+    "lat": "41.2627",
+    "lng": "-96.0529",
+    "year": "1854"
+  },
+  {
+    "city": "Topeka",
+    "state": "Kansas",
+    "state_id": "KS",
+    "lat": "39.0346",
+    "lng": "-95.6955",
+    "year": "1854"
+  },
+  {
+    "city": "Versailles",
+    "state": "Missouri",
+    "state_id": "MO",
+    "lat": "38.4333",
+    "lng": "-92.8453",
+    "year": "1854"
+  },
+  {
+    "city": "Champaign",
+    "state": "Illinois",
+    "state_id": "IL",
+    "lat": "40.1142",
+    "lng": "-88.2737",
+    "year": "1855"
+  },
+  {
+    "city": "College Park",
+    "state": "Maryland",
+    "state_id": "MD",
+    "lat": "38.9960",
+    "lng": "-76.9337",
+    "year": "1856"
+  },
+  {
+    "city": "Lincoln",
+    "state": "Nebraska",
+    "state_id": "NE",
+    "lat": "40.8099",
+    "lng": "-96.6784",
+    "year": "1856"
+  },
+  {
+    "city": "O'Fallon",
+    "state": "Missouri",
+    "state_id": "MO",
+    "lat": "38.7850",
+    "lng": "-90.7175",
+    "year": "1856"
+  },
+  {
+    "city": "Appleton",
+    "state": "Wisconsin",
+    "state_id": "WI",
+    "lat": "44.2780",
+    "lng": "-88.3892",
+    "year": "1857"
+  },
+  {
+    "city": "Carson City",
+    "state": "Nevada",
+    "state_id": "NV",
+    "lat": "39.1511",
+    "lng": "-119.7476",
+    "year": "1858"
+  },
+  {
+    "city": "Denver",
+    "state": "Colorado",
+    "state_id": "CO",
+    "lat": "39.7620",
+    "lng": "-104.8758",
+    "year": "1858"
+  },
+  {
+    "city": "Olympia",
+    "state": "Washington",
+    "state_id": "WA",
+    "lat": "47.0417",
+    "lng": "-122.8959",
+    "year": "1859"
+  },
+  {
+    "city": "Boise",
+    "state": "Idaho",
+    "state_id": "ID",
+    "lat": "43.6005",
+    "lng": "-116.2308",
+    "year": "1862"
+  },
+  {
+    "city": "Salinas",
+    "state": "California",
+    "state_id": "CA",
+    "lat": "36.6883",
+    "lng": "-121.6317",
+    "year": "1864"
+  },
+  {
+    "city": "Sioux Falls",
+    "state": "South Dakota",
+    "state_id": "SD",
+    "lat": "43.5396",
+    "lng": "-96.7311",
+    "year": "1865"
+  },
+  {
+    "city": "Cheyenne",
+    "state": "Wyoming",
+    "state_id": "WY",
+    "lat": "41.1350",
+    "lng": "-104.7902",
+    "year": "1867"
+  },
+  {
+    "city": "Minneapolis",
+    "state": "Minnesota",
+    "state_id": "MN",
+    "lat": "44.9635",
+    "lng": "-93.2678",
+    "year": "1867"
+  },
+  {
+    "city": "Phoenix",
+    "state": "Arizona",
+    "state_id": "AZ",
+    "lat": "33.5722",
+    "lng": "-112.0892",
+    "year": "1868"
+  },
+  {
+    "city": "Wichita",
+    "state": "Kansas",
+    "state_id": "KS",
+    "lat": "37.6895",
+    "lng": "-97.3443",
+    "year": "1870"
+  },
+  {
+    "city": "Birmingham",
+    "state": "Alabama",
+    "state_id": "AL",
+    "lat": "33.5279",
+    "lng": "-86.7971",
+    "year": "1871"
+  },
+  {
+    "city": "Longmont",
+    "state": "Colorado",
+    "state_id": "CO",
+    "lat": "40.1686",
+    "lng": "-105.1005",
+    "year": "1871"
+  },
+  {
+    "city": "Colorado Springs",
+    "state": "Colorado",
+    "state_id": "CO",
+    "lat": "38.8674",
+    "lng": "-104.7605",
+    "year": "1871"
+  },
+  {
+    "city": "Fargo",
+    "state": "North Dakota",
+    "state_id": "ND",
+    "lat": "46.8651",
+    "lng": "-96.8292",
+    "year": "1871"
+  },
+  {
+    "city": "Anniston",
+    "state": "Alabama",
+    "state_id": "AL",
+    "lat": "33.6712",
+    "lng": "-85.8135",
+    "year": "1872"
+  },
+  {
+    "city": "Pasadena",
+    "state": "California",
+    "state_id": "CA",
+    "lat": "34.1597",
+    "lng": "-118.1390",
+    "year": "1874"
+  },
+  {
+    "city": "Orlando",
+    "state": "Florida",
+    "state_id": "FL",
+    "lat": "28.4773",
+    "lng": "-81.3370",
+    "year": "1875"
+  },
+  {
+    "city": "Billings",
+    "state": "Montana",
+    "state_id": "MT",
+    "lat": "45.7891",
+    "lng": "-108.5526",
+    "year": "1877"
+  },
+  {
+    "city": "Ruston",
+    "state": "Louisiana",
+    "state_id": "LA",
+    "lat": "32.5328",
+    "lng": "-92.6363",
+    "year": "1885"
+  },
+  {
+    "city": "Takoma Park",
+    "state": "Maryland",
+    "state_id": "MD",
+    "lat": "38.9810",
+    "lng": "-77.0028",
+    "year": "1886"
+  },
+  {
+    "city": "Gulfport",
+    "state": "Mississippi",
+    "state_id": "MS",
+    "lat": "30.4274",
+    "lng": "-89.0704",
+    "year": "1887"
+  },
+  {
+    "city": "Clemson",
+    "state": "South Carolina",
+    "state_id": "SC",
+    "lat": "34.6837",
+    "lng": "-82.8124",
+    "year": "1889"
+  },
+  {
+    "city": "Norman",
+    "state": "Oklahoma",
+    "state_id": "OK",
+    "lat": "35.2335",
+    "lng": "-97.3471",
+    "year": "1889"
+  },
+  {
+    "city": "Oklahoma City",
+    "state": "Oklahoma",
+    "state_id": "OK",
+    "lat": "35.4676",
+    "lng": "-97.5136",
+    "year": "1889"
+  },
+  {
+    "city": "Grottoes",
+    "state": "Virginia",
+    "state_id": "VA",
+    "lat": "38.2691",
+    "lng": "-78.8251",
+    "year": "1892"
+  },
+  {
+    "city": "Palo Alto",
+    "state": "California",
+    "state_id": "CA",
+    "lat": "37.3905",
+    "lng": "-122.1468",
+    "year": "1894"
+  },
+  {
+    "city": "Tempe",
+    "state": "Arizona",
+    "state_id": "AZ",
+    "lat": "33.3881",
+    "lng": "-111.9319",
+    "year": "1894"
+  },
+  {
+    "city": "Miami",
+    "state": "Florida",
+    "state_id": "FL",
+    "lat": "25.7840",
+    "lng": "-80.2101",
+    "year": "1896"
+  },
+  {
+    "city": "State College",
+    "state": "Pennsylvania",
+    "state_id": "PA",
+    "lat": "40.7909",
+    "lng": "-77.8567",
+    "year": "1896"
+  },
+  {
+    "city": "Las Vegas",
+    "state": "Nevada",
+    "state_id": "NV",
+    "lat": "36.2333",
+    "lng": "-115.2654",
+    "year": "1905"
+  },
+  {
+    "city": "Virginia Beach",
+    "state": "Virginia",
+    "state_id": "VA",
+    "lat": "36.7335",
+    "lng": "-76.0435",
+    "year": "1906"
+  },
+  {
+    "city": "Anchorage",
+    "state": "Alaska",
+    "state_id": "AK",
+    "lat": "61.1508",
+    "lng": "-149.1091",
+    "year": "1914"
+  },
+  {
+    "city": "Truth Or Consequences",
+    "state": "New Mexico",
+    "state_id": "NM",
+    "lat": "33.1864",
+    "lng": "-107.2589",
+    "year": "1916"
+  }
+]

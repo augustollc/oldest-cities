@@ -15,7 +15,7 @@
 		});
 
     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-      attribution: '© OpenStreetMap contributors'
+      attribution: '© OpenStreetMap contributors | Data from <a href="https://en.wikipedia.org/wiki/List_of_North_American_settlements_by_year_of_foundation" target="_blank">Wikipedia</a> and <a href="https://simplemaps.com/data/us-cities> target="_blank">SimpleMaps</a>'
     }).addTo(map);
   
 		const minYear = 1521;

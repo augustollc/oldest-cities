@@ -14,14 +14,10 @@
 			zoomSnap: 0.1
 		});
 
-		L.tileLayer('https://tiles.stadiamaps.com/tiles/stamen_toner_lite/{z}/{x}/{y}{r}.{ext}', {
-			minZoom: 0,
-			maxZoom: 20,
-			attribution:
-				'&copy; <a href="https://www.stadiamaps.com/" target="_blank">Stadia Maps</a> &copy; <a href="https://www.stamen.com/" target="_blank">Stamen Design</a> &copy; <a href="https://openmaptiles.org/" target="_blank">OpenMapTiles</a> &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors | Data from <a href="https://en.wikipedia.org/wiki/List_of_North_American_settlements_by_year_of_foundation" target="_blank">Wikipedia</a> and <a href="https://simplemaps.com/data/us-cities> target="_blank">SimpleMaps</a>',
-			ext: 'png'
-		}).addTo(map);
-
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      attribution: '© OpenStreetMap contributors'
+    }).addTo(map);
+  
 		const minYear = 1521;
 		const maxYear = 1917;
 
